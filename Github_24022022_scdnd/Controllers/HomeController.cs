@@ -24,7 +24,7 @@ namespace Github_24022022_scdnd.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Messa"] = "Your contact page.";
 
             return View();
         }
