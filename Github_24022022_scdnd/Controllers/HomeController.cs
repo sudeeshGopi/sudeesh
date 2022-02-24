@@ -17,7 +17,7 @@ namespace Github_24022022_scdnd.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Your application description about page page.";
 
             return View();
         }
