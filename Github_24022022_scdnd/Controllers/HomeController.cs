@@ -29,6 +29,11 @@ namespace Github_24022022_scdnd.Controllers
             return View();
         }
 
+
+        public IActionResult PrivacyNew()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
